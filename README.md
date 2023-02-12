@@ -21,7 +21,7 @@
   
 <p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Riyan Sipayung | 🇮🇩 Indonesian</p>
 
-<h3 align="center">Introduce I am a person who likes coding programming, And now I am learning to make a WhatsApp BOT program that can be useful and useful for everyone</h3>
+<h3 align="center">Introduce I am a person who likes coding programming, Don't Forget ⭐ For Me 😊</h3>
 
 ------
 
