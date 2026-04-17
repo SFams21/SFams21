@@ -4,7 +4,7 @@
 ------
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Riyan Sipayung 👨‍💻
 <p align="center">
-  <img src="https://telegra.ph/file/8d999105b214c822508c2.jpg" />
+  <img src="https://graph.org/file/c50ed6c0e27f329965cf1-a0f9392e7f8bd76f45.jpg" />
 </p>
 
 ![mi perfil](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
